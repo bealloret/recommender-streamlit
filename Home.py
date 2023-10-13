@@ -29,7 +29,7 @@ def run():
     st.sidebar.success("Select a recommender above.")
 
     st.markdown(
-        ""
+        """
         **👈 Select a recommender from the sidebar** to see some examples
         of what we can do!
       
